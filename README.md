@@ -1,0 +1,1 @@
+Welcome to the Flask Market Project! This is a small web application built with Flask, a lightweight and flexible web framework for Python. The project allows users to register, log in, buy items, and sell items in a simple market setting. 
